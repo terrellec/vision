@@ -1,0 +1,8 @@
+{
+  "name": "terrell/visionr",
+  "description": "Vision App",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  }
+}
